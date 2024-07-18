@@ -1,0 +1,18 @@
+<?xml version="1.0"?>
+<ArrayOfWeaponChars xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <WeaponChars>
+    <Name>Oleg</Name>
+    <Recoil>2</Recoil>
+    <Accuracy>5</Accuracy>
+    <RateOfFire>2</RateOfFire>
+    <Reload>1</Reload>
+    <Speed>0</Speed>
+    <APMod>0</APMod>
+    <BulletVelocity>30</BulletVelocity>
+    <Damage>10</Damage>
+    <MagSize>10</MagSize>
+    <InMag>10</InMag>
+    <Ammo>20</Ammo>
+    <UI_ROF>600</UI_ROF>
+  </WeaponChars>
+</ArrayOfWeaponChars>
